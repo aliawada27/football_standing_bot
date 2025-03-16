@@ -1,0 +1,38 @@
+{
+    "id": 65,
+    "name": "Manchester City FC",
+    "shortName": "Man City",
+    "tla": "MCI",
+    "crest": "https://crests.football-data.org/65.png",
+    "stats": {
+        "General": {
+            "Matchs joués": 28,
+            "Buts marqués": 64,
+            "Buts encaissés": 26,
+            "Différence de buts": 38,
+            "Clean sheets": 9
+        }
+    },
+    "top_players": {
+        "Squad": [
+            {"name": "Erling Haaland", "value": "Attacker"},
+            {"name": "Kevin De Bruyne", "value": "Midfielder"},
+            {"name": "Phil Foden", "value": "Midfielder"},
+            {"name": "Rodri", "value": "Midfielder"},
+            {"name": "Bernardo Silva", "value": "Midfielder"},
+            {"name": "Ederson", "value": "Goalkeeper"},
+            {"name": "Rúben Dias", "value": "Defender"},
+            {"name": "John Stones", "value": "Defender"},
+            {"name": "Kyle Walker", "value": "Defender"},
+            {"name": "Jack Grealish", "value": "Midfielder"}
+        ]
+    },
+    "squad": [
+        {"name": "Ederson", "position": "Goalkeeper"},
+        {"name": "Rúben Dias", "position": "Defender"},
+        {"name": "John Stones", "position": "Defender"},
+        {"name": "Kyle Walker", "position": "Defender"},
+        {"name": "Nathan Aké", "position": "Defender"}
+    ],
+    "matches": []
+}

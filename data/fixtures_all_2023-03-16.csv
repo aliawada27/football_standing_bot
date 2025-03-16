@@ -1,0 +1,26 @@
+MatchID,Date,HomeTeam,AwayTeam,HomeID,AwayID,Status,HomeScore,AwayScore,Stadium
+1,2023-08-12T14:00:00Z,Arsenal,Nottingham Forest,57,15,Joué,2,1,Emirates Stadium
+2,2023-08-12T14:00:00Z,Bournemouth,West Ham United,1044,563,Joué,1,1,Vitality Stadium
+3,2023-08-12T14:00:00Z,Brighton,Luton Town,397,1044,Joué,4,1,Amex Stadium
+4,2023-08-12T14:00:00Z,Everton,Fulham,62,931,Joué,0,1,Goodison Park
+5,2023-08-12T14:00:00Z,Newcastle United,Aston Villa,67,58,Joué,5,1,St James' Park
+6,2023-08-12T16:30:00Z,Sheffield United,Crystal Palace,356,354,Joué,0,1,Bramall Lane
+7,2023-08-13T14:00:00Z,Brentford,Tottenham Hotspur,402,73,Joué,2,2,Brentford Community Stadium
+8,2023-08-13T16:30:00Z,Chelsea,Liverpool,61,64,Joué,1,1,Stamford Bridge
+9,2023-08-14T19:00:00Z,Manchester United,Wolverhampton Wanderers,66,76,Joué,1,0,Old Trafford
+10,2023-08-14T19:00:00Z,Burnley,Manchester City,328,65,Joué,0,3,Turf Moor
+11,2023-08-19T11:30:00Z,Arsenal,Fulham,57,931,Joué,2,2,Emirates Stadium
+12,2023-08-19T14:00:00Z,Brentford,Crystal Palace,402,354,Joué,1,1,Brentford Community Stadium
+13,2023-08-19T14:00:00Z,Brighton,Wolverhampton Wanderers,397,76,Joué,4,1,Amex Stadium
+14,2023-08-19T14:00:00Z,Everton,Aston Villa,62,58,Joué,0,4,Goodison Park
+15,2023-08-19T14:00:00Z,Manchester United,Nottingham Forest,66,15,Joué,3,2,Old Trafford
+16,2023-08-19T16:30:00Z,Manchester City,Newcastle United,65,67,Joué,1,0,Etihad Stadium
+17,2023-08-20T14:00:00Z,Sheffield United,Luton Town,356,1044,Joué,1,3,Bramall Lane
+18,2023-08-20T14:00:00Z,Bournemouth,Tottenham Hotspur,1044,73,Joué,0,2,Vitality Stadium
+19,2023-08-20T16:30:00Z,Chelsea,Liverpool,61,64,Joué,0,3,Stamford Bridge
+20,2023-08-21T18:45:00Z,Crystal Palace,Arsenal,354,57,Joué,0,1,Selhurst Park
+21,2023-03-30T14:00:00Z,Liverpool,Sheffield United,64,356,15:30,,,Anfield
+22,2023-03-30T14:00:00Z,Manchester City,Arsenal,65,57,15:30,,,Etihad Stadium
+23,2023-03-30T14:00:00Z,Chelsea,Burnley,61,328,15:30,,,Stamford Bridge
+24,2023-04-03T18:45:00Z,Newcastle United,Everton,67,62,19:45,,,St James' Park
+25,2023-04-03T19:00:00Z,Nottingham Forest,Fulham,15,931,20:00,,,City Ground

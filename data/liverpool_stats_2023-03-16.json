@@ -1,0 +1,38 @@
+{
+    "id": 64,
+    "name": "Liverpool FC",
+    "shortName": "Liverpool",
+    "tla": "LIV",
+    "crest": "https://crests.football-data.org/64.png",
+    "stats": {
+        "General": {
+            "Matchs joués": 28,
+            "Buts marqués": 66,
+            "Buts encaissés": 25,
+            "Différence de buts": 41,
+            "Clean sheets": 10
+        }
+    },
+    "top_players": {
+        "Squad": [
+            {"name": "Mohamed Salah", "value": "Attacker"},
+            {"name": "Virgil van Dijk", "value": "Defender"},
+            {"name": "Alisson", "value": "Goalkeeper"},
+            {"name": "Trent Alexander-Arnold", "value": "Defender"},
+            {"name": "Andy Robertson", "value": "Defender"},
+            {"name": "Luis Diaz", "value": "Attacker"},
+            {"name": "Darwin Núñez", "value": "Attacker"},
+            {"name": "Cody Gakpo", "value": "Attacker"},
+            {"name": "Dominik Szoboszlai", "value": "Midfielder"},
+            {"name": "Alexis Mac Allister", "value": "Midfielder"}
+        ]
+    },
+    "squad": [
+        {"name": "Alisson", "position": "Goalkeeper"},
+        {"name": "Virgil van Dijk", "position": "Defender"},
+        {"name": "Trent Alexander-Arnold", "position": "Defender"},
+        {"name": "Andy Robertson", "position": "Defender"},
+        {"name": "Ibrahima Konaté", "position": "Defender"}
+    ],
+    "matches": []
+}
